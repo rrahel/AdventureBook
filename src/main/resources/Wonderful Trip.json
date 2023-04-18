@@ -1,0 +1,60 @@
+{
+  "author": "No Name",
+  "title": "Wonderful Trip",
+  "publishedDate": "11-03-1999",
+  "country": "German",
+  "city": "Berlin",
+  "publisher": "Publisher Name",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Journey Begin",
+      "pages": [
+        {
+          "id": 1,
+          "picture": "City_Building.png",
+          "content": "Something page 1 chapter 1...",
+          "footnote": "Something important...",
+          "goTo": 3
+        },
+        {
+          "id": 2,
+          "picture": "City_Building.png",
+          "content": "Something page 2 chapter 1...",
+          "footnote": "Something important..."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The journey",
+      "pages": [
+        {
+          "id": 1,
+          "picture": "City_Building.png",
+          "content": "Something page 1 chapter 2...",
+          "footnote": "Something important..."
+        },
+        {
+          "id": 2,
+          "picture": "City_Building.png",
+          "content": "Something page 2 chapter 2...",
+          "footnote": "Something important...",
+          "goTo": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The journey",
+      "pages": [
+        {
+          "id": 1,
+          "picture": "City_Building.png",
+          "content": "Something page 1 chapter 3...",
+          "footnote": "Something important..."
+        }
+      ]
+    }
+  ]
+}
